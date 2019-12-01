@@ -1,0 +1,3 @@
+﻿  Assembling ProyectFinalMicro.asm...
+c:\Irvine\SmallWin.inc(11): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  ProyectoFinal.vcxproj -> C:\Users\walte\OneDrive\Documentos\papucho\2019\6to Ciclo\MicroProgramacion\ProyectoFinal\Debug\ProyectoFinal.exe

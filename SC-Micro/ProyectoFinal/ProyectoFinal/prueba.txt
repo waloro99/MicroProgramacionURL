@@ -1,0 +1,2 @@
+Elabore un programa en Macro Assembler que permita que el usuario lea un texto proveniente de un archivo, posteriormente el usuario podra indicar que subcadena o serie de subcadenas desea buscar. Elabore un programa en Turbo Assembler, que permita que el usuario ingrese un numero con tamaño maximo de 16 bits (32768d) y pueda ver, como resultado, dicho numero invertido. 
+
